@@ -1,5 +1,6 @@
-## Olá seja bem vindo! Eu me chamo Lucas Carlos e esse é o meu Github
-Atualmente, estou focado em desenvolver habilidades na área de Ciência de Dados, com projetos em Python de Análise exploratória.
+## Olá seja bem vindo! 
+Eu me chamo Lucas Carlos e esse é o meu Portfólio.
+Atualmente, estou focado em desenvolver habilidades na área de Ciência de Dados, com projetos de análise exploratória.
 Aqui você pode encontrar projetos como o estudo do preço do diamante e da qualidade de laranjas, com modelos e metodologias utilizadas por analistas e cientistas de dados.
 Como por exemplo: Utilização de funções: Pandas, Matplotlib e Seaborn, todos os projetos são seguindo a metodologia do CRISP-DM.
 
