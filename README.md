@@ -1,8 +1,11 @@
 ## Olá seja bem vindo! 
 Eu me chamo Lucas Carlos e esse é o meu Portfólio.
-Atualmente, estou focado em desenvolver habilidades na área de Ciência de Dados, com projetos de análise exploratória.
-Aqui você pode encontrar projetos como o estudo do preço do diamante e da qualidade de laranjas, com modelos e metodologias utilizadas por analistas e cientistas de dados.
-Como por exemplo: Utilização de funções: Pandas, Matplotlib e Seaborn, todos os projetos são seguindo a metodologia do CRISP-DM.
+Atualmente, estou focado em desenvolver habilidades na área de Ciência de Dados, com projetos de análise exploratória e machine learning.
+Aqui você pode encontrar projetos como o estudo do preço do diamante e da qualidade de laranjas, datasets da internet, com modelos e metodologias utilizadas por analistas e cientistas de dados, como por exemplo: Utilização de funções: Pandas, Matplotlib e Seaborn, todos os projetos são seguindo a metodologia do CRISP-DM. Além disso está o meu projeto de TCC sobre análise de sentimentos a partir do twitter, em que é realizado um estudo de caso completo, da extração de dados até a correlação com dados do mercado financeiro e também etapas de estudo necessárias para a conclusão do mesmo.
+
+
+Clique <a href="error">aqui</a> para acessar meu portfólio:
+
 
 
 ## Ferramentas e Tecnologias
